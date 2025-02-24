@@ -51,6 +51,10 @@ Feel free to modify the configuration files to suit your workflow. Key config fi
 ![Hyprland Screenshot](assets/2025-02-24-174811_hyprshot.png)
 ![Hyprland Screenshot](assets/2025-02-24-162705_hyprshot.png)
 
+## 🎥 Demo
+
+![Hyprland Demo](videos/VID_20250224_182824.mp4)
+![Hyprland Demo](videos/VID_20250224_182656.mp4)
 
 
 ## Contact
