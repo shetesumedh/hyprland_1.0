@@ -56,6 +56,17 @@ Feel free to modify the configuration files to suit your workflow. Key config fi
 ![Hyprland Demo](videos/VID_20250224_182824.mp4)
 ![Hyprland Demo](videos/VID_20250224_182656.mp4)
 
+❤️ Support This Project
+
+If you find this repository useful and would like to support further development, you can donate using the following cryptocurrency addresses:
+
+Bitcoin (BTC): bc1q93ln57zwawyf54ednympwpntmw4z92emcddwcz
+
+Ethereum (ETH): 0x98339Cd05D42E22c88080689E6d6b0429a1b386C
+
+Solana (SOL): CNWie8g2fM8cTRRk4axqxt42shZBkuqHe5YJC7tSpB95
+
+I’d love to hear your feedback! Let me know if you try it out or have suggestions for improvement. 😊🚀
 
 ## Contact
 
