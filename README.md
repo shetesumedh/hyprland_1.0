@@ -25,10 +25,8 @@ git clone https://github.com/shetesumedh/hyprland_1.0 .
 Ensure you have Hyprland and Waybar installed:
 
 ```bash
-pacman -Syu
-pacman -S hyprland waybar
-pacman -S alacritty
-pacman -S ttf-jetbrains-mono
+sudo pacman -Syu
+sudo pacman -S hyprland waybar alacritty ttf-jetbrains-mono
 ```
 
 ### 3️⃣ Restart Hyprland
